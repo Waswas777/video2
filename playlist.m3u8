@@ -1,7 +1,7 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-TARGETDURATION:11
-#EXTINF:1.840000,
+#EXTINF:2.840000,
 playlist2.ts
 #EXTINF:4.360000,
 playlist4.ts
@@ -25,4 +25,3 @@ playlist15.ts
 playlist16.ts
 #EXTINF:5.360000,
 playlist17.ts
-#EXT-X-ENDLIST
